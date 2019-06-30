@@ -4,7 +4,7 @@ Live at https://myeraser.herokuapp.com/
 A fully functional e commerce website made on React with Redux
 
 # Got new products?
-**_Add directly into the firebase. That's it!!!
+**_Add directly into the firebase. That's it!!!_**
 
 ![alt text](./firebase.png)
 
