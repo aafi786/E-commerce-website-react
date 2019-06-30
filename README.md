@@ -6,8 +6,15 @@ A fully functional e commerce website made on React with Redux
 # Got new products?
 Add directly into the firebase. That's it!!!
 
-![alt text](./screenshot (138).png)
+![alt text](./firebase.png)
 
+# Preview
+
+![alt text](./listing.png)
+
+![alt text](./cart.png)
+
+![alt text](./address.png)
 
 ## Wondering how to contribute
 
