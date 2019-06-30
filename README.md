@@ -1,7 +1,7 @@
 Live at https://myeraser.herokuapp.com/
 
 # E-commerce-website-react
-A fully functional e commerce website made on React with Redux
+A fully functional e commerce website made on React with Redux, Integrated with firebase, login using phone no. with OTP.
 
 # Got new products?
 **_Add directly into the firebase. That's it!!!_**
@@ -15,6 +15,8 @@ A fully functional e commerce website made on React with Redux
 ![alt text](./cart.png)
 
 ![alt text](./address.png)
+
+![alt tetx](./login.png)
 
 ## Wondering how to contribute
 
